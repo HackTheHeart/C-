@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - SeasonMap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Projectile
+  - Effect
+  - Terrain
+  - CameraBounds
+  - 
+  - 
+  - 
+  - Animals
+  - TileMap
+  - 
+  - Transition UI
+  - 
+  - Tooltip UI
+  - NPC
+  - 
+  - Ground
+  - WalkInfront
+  - WalkBehind
+  - Decor
+  - Collision
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Effect
+    uniqueID: 4002429823
+    locked: 0
+  - name: UI
+    uniqueID: 1329553751
+    locked: 0
+  - name: Tooltip UI
+    uniqueID: 2515136785
+    locked: 0
+  - name: Transition UI
+    uniqueID: 1771915001
+    locked: 0
+  - name: TileMap
+    uniqueID: 2246133893
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 4092003081
+    locked: 0
+  - name: WalkInfront
+    uniqueID: 1098116613
+    locked: 0
+  - name: Collision
+    uniqueID: 1618706495
+    locked: 0
+  - name: Player
+    uniqueID: 883811581
+    locked: 0
+  - name: WalkBehind
+    uniqueID: 1422493155
+    locked: 0
+  - name: Decoration
+    uniqueID: 46220139
+    locked: 0
+  - name: TransparentFX
+    uniqueID: 2889707785
+    locked: 0
+  - name: Terrain
+    uniqueID: 3355812825
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  - Layer 1
+  - Layer 2
