@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62dc082794b8d1a49b7f67e350368759, type: 3}
+  m_Name: Manu DialogueSet
+  m_EditorClassIdentifier: 
+  npcName: Tuan
+  npcPortraits:
+  - {fileID: -3840228983008552025, guid: b01d3888e45c441439538c749541ae51, type: 3}
+  - {fileID: -6548721086494748529, guid: b01d3888e45c441439538c749541ae51, type: 3}
+  - {fileID: 8262524106614138990, guid: b01d3888e45c441439538c749541ae51, type: 3}
+  - {fileID: 8308279222792749210, guid: b01d3888e45c441439538c749541ae51, type: 3}
+  - {fileID: -1822338858092203366, guid: b01d3888e45c441439538c749541ae51, type: 3}
+  - {fileID: 5494302246677713180, guid: b01d3888e45c441439538c749541ae51, type: 3}
+  normalDialogues:
+  - lines:
+    - You ever think about how an onion smells when it hits a hot pan?
+    - No? Just me?
+    - "Guess I\u2019ve been spending too much time reading recipe books again."
+    autoProgressLines: 000000
+    expressions: 000000000400000001000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  - lines:
+    - They say cooking is like magic.
+    - "You mix a bunch of raw things and suddenly\u2026 comfort."
+    - "Shame we don\u2019t have a real kitchen around here yet."
+    autoProgressLines: 000000
+    expressions: 050000000100000002000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  likeDialogues:
+  - lines:
+    - Oh, this would go great in a stew!
+    autoProgressLines: 00
+    expressions: 01000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  - lines:
+    - "Mind if I\u2026 just imagine how it tastes for a second?"
+    - Thanks! You really get me.
+    autoProgressLines: 0000
+    expressions: 0100000005000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  dislikeDialogues:
+  - lines:
+    - Maybe I'll just keep it as decoration?
+    autoProgressLines: 00
+    expressions: 02000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  - lines:
+    - "Hmm... I\u2019m not sure how to saut\xE9 this."
+    - Or if I should.
+    autoProgressLines: 0000
+    expressions: 0000000002000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  loveDialogues:
+  - lines:
+    - You found this!? This is a dream ingredient!
+    autoProgressLines: 0000
+    expressions: 01000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  - lines:
+    - "With this and a little heat, I could cook something amazing\u2026 if only
+      we had a stove."
+    - Still, this means a lot. Thank you.
+    autoProgressLines: 00
+    expressions: 0000000005000000
+    typingSpeed: 0
+    autoProgressDelay: 0

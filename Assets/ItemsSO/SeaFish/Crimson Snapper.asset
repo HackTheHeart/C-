@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93fc7b105d941ee4fbf9ed12ca39eb9e, type: 3}
+  m_Name: Crimson Snapper
+  m_EditorClassIdentifier: 
+  itemName: Crimson Snapper
+  itemID: 0
+  itemSprite: {fileID: -8409934599922788303, guid: 21f51a50d6e151d459b9c458838cc618, type: 3}
+  stackable: 1
+  itemType: 7
+  cropData: {fileID: 0}
+  sellPrice: 150

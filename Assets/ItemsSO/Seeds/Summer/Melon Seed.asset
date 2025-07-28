@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93fc7b105d941ee4fbf9ed12ca39eb9e, type: 3}
+  m_Name: Melon Seed
+  m_EditorClassIdentifier: 
+  itemName: Melonseed
+  itemID: 0
+  itemSprite: {fileID: -8989569366271797681, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  stackable: 1
+  itemType: 2
+  cropData: {fileID: 11400000, guid: f77e7c9fe12e6ed42963b28bb73c37e0, type: 2}
+  sellPrice: 0
+  description: Grows into a large, sweet melon. Takes 12 days to mature. Single harvest
+    but very high value.
+  energy: 0
+  health: 0
+  speed: 0

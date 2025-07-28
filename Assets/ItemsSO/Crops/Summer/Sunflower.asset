@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4546780ad7f8c2f4bbeb6aee7a03095e, type: 3}
+  m_Name: Sunflower
+  m_EditorClassIdentifier: 
+  cropName: Sunflower
+  growthStages:
+  - {fileID: -6546919281760172531, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: -1856865837555362020, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: -2361322223703048996, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: -2717272518919515506, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: 7560541258184747022, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  daysPerStage: 02000000020000000200000002000000
+  requiresWater: 1
+  harvestItemName: Sunflower
+  harvestAmount: 1
+  growingSeason: 1

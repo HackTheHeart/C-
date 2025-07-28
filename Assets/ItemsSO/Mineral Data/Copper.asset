@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a6345b377f2dd4bb0e8dbf84627ec6, type: 3}
+  m_Name: Copper
+  m_EditorClassIdentifier: 
+  oreName: Copper
+  orePrefabs:
+  - {fileID: 1263721949311110602, guid: ddfc47488f13a2846a83b360bd9e4925, type: 3}
+  - {fileID: 1943694160875960266, guid: c74f2a27a70f4904f89ee995be11c98a, type: 3}
+  - {fileID: 4058387504740372804, guid: a5a93ce190782f64781e111dafec7b64, type: 3}
+  minLevel: 1
+  maxLevel: 6

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4546780ad7f8c2f4bbeb6aee7a03095e, type: 3}
+  m_Name: Greenbeans
+  m_EditorClassIdentifier: 
+  cropName: Greenbeans
+  growthStages:
+  - {fileID: 2431672936545192382, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: 7075594585402985189, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: 7591343607032845119, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: 8390512204768297519, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: 1562909172, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: -619011423, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: -962865730, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  daysPerStage: 010000000200000002000000030000000200000002000000
+  requiresWater: 1
+  harvestItemName: Greenbeans
+  harvestAmount: 1
+  growingSeason: 1

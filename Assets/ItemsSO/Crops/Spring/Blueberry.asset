@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4546780ad7f8c2f4bbeb6aee7a03095e, type: 3}
+  m_Name: Blueberry
+  m_EditorClassIdentifier: 
+  cropName: Blueberry
+  growthStages:
+  - {fileID: 8523965287709476415, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: 8849037320410730604, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: -2004733081760871359, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: 7970753316438003428, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: 4748092831001568428, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: -1142901117228979249, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  daysPerStage: 0300000003000000030000000200000002000000
+  requiresWater: 1
+  harvestItemName: Blueberry
+  harvestAmount: 1
+  growingSeason: 0

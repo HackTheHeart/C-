@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4546780ad7f8c2f4bbeb6aee7a03095e, type: 3}
+  m_Name: Bellpepper
+  m_EditorClassIdentifier: 
+  cropName: Bellpepper
+  growthStages:
+  - {fileID: -5012524222219166901, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: 6959094700402278857, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: 5949341458490847246, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: -6849219694923386069, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: 48013684919920609, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: -8368864388148003119, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  daysPerStage: 0100000002000000030000000300000003000000
+  requiresWater: 1
+  harvestItemName: Bellpepper
+  harvestAmount: 1
+  growingSeason: 1

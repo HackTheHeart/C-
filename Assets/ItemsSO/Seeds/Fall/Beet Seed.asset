@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93fc7b105d941ee4fbf9ed12ca39eb9e, type: 3}
+  m_Name: Beet Seed
+  m_EditorClassIdentifier: 
+  itemName: BeetSeed
+  itemID: 0
+  itemSprite: {fileID: 7339756071683433264, guid: 4ec8ffa07b4a36b449ba2305cb0162c8, type: 3}
+  stackable: 1
+  itemType: 2
+  cropData: {fileID: 11400000, guid: f3fab3c3acb49b0408d31c4e4cb97ec2, type: 2}
+  sellPrice: 0
+  description: Grows into a sweet, earthy beet. Takes 6 days to mature. Harvest once.
+    A Fall root crop often used in salads and dishes.
+  energy: 0
+  health: 0
+  speed: 0

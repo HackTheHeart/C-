@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4546780ad7f8c2f4bbeb6aee7a03095e, type: 3}
+  m_Name: Broccoli
+  m_EditorClassIdentifier: 
+  cropName: Broccoli
+  growthStages:
+  - {fileID: -879297799, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: -3080650286326298165, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: 7814893720690666311, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: 4062591572626814129, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: 4263506706216144334, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  daysPerStage: 03000000030000000200000001000000
+  requiresWater: 1
+  harvestItemName: Broccoli
+  harvestAmount: 1
+  growingSeason: 0

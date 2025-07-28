@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62dc082794b8d1a49b7f67e350368759, type: 3}
+  m_Name: Toru DialogueSet
+  m_EditorClassIdentifier: 
+  npcName: Tuan
+  npcPortraits:
+  - {fileID: 2718883363617669556, guid: d494e5e5fb21b0f47ad2d3a00f7c77a2, type: 3}
+  - {fileID: -106122289516682043, guid: d494e5e5fb21b0f47ad2d3a00f7c77a2, type: 3}
+  - {fileID: 2574276542832256172, guid: d494e5e5fb21b0f47ad2d3a00f7c77a2, type: 3}
+  - {fileID: 3028392158310491397, guid: d494e5e5fb21b0f47ad2d3a00f7c77a2, type: 3}
+  - {fileID: 7927264076830784493, guid: d494e5e5fb21b0f47ad2d3a00f7c77a2, type: 3}
+  - {fileID: 8108891209617676387, guid: d494e5e5fb21b0f47ad2d3a00f7c77a2, type: 3}
+  normalDialogues:
+  - lines:
+    - One of my chickens escaped this morning.
+    - I chased her across half the field!
+    - But hey, at least I got my cardio in.
+    autoProgressLines: 0000
+    expressions: 000000000100000004000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  - lines:
+    - Feeding time is my favorite part of the day.
+    - "All the animals gather 'round like I\u2019m a queen or something."
+    - It's silly, but it makes me smile every time.
+    autoProgressLines: 000000
+    expressions: 010000000400000005000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  likeDialogues:
+  - lines:
+    - Oh wow, I could really use this!
+    autoProgressLines: 00
+    expressions: 01000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  - lines:
+    - The animals are gonna love it too.
+    - Thanks a bunch!
+    autoProgressLines: 0000
+    expressions: 0100000005000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  dislikeDialogues:
+  - lines:
+    - Uhh... thanks?
+    autoProgressLines: 00
+    expressions: 02000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  - lines:
+    - "I guess I could\u2026 use it as a paperweight?"
+    autoProgressLines: 00
+    expressions: 02000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  loveDialogues:
+  - lines:
+    - You came to see me again?"
+    - "I\u2026 I don\u2019t know what to say."
+    autoProgressLines: 0000
+    expressions: 0100000005000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  - lines:
+    - "If I had more courage...\\nI\u2019d tell you how I really feel."
+    autoProgressLines: 00
+    expressions: 01000000
+    typingSpeed: 0
+    autoProgressDelay: 0

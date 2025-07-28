@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 080715760a528f643817aa65c9328946, type: 3}
+  m_Name: UniversalGiftPreferences
+  m_EditorClassIdentifier: 
+  universalLovedItems:
+  - Blueberry
+  - Brocolli
+  - Cabbage
+  - Carrot
+  - Cauliflower
+  - Onion
+  - Parsnip
+  - Potato
+  - Springonion
+  - Strawberry
+  - Wheat
+  universalLikedItems:
+  - Iron Bar
+  - Amethyst
+  - Copper Bar
+  - Gold Bar
+  - Diamond
+  - Emeral
+  - Rose Quartz
+  - Ruby
+  - Saphire
+  - Tin Bar
+  universalHatedItems:
+  - Bullhead Catfish
+  - Carp
+  - Chub
+  - Discus
+  - Dorado
+  - eel
+  - Ghost Catfish
+  - Largemouth Bass
+  - Perch
+  - Pike Fish
+  - Piranha
+  - Rainbow Trout
+  - Shad
+  - Sturgeon
+  - Sunfish
+  - Tiger Trout
+  - Walleye
+  - Albacore
+  - Anchovy
+  - Anglerfish
+  - BlobFish
+  - Bream
+  - Crimson Snapper
+  - Flounder
+  - Goby
+  - Halibut
+  - Herring
+  - Lingcod
+  - LionFish
+  - pufferfish
+  - Red Mullet
+  - Red Snapper
+  - Salmon
+  - Sardine
+  - Sea Bullhead
+  - Samllmouth Bass
+  - Tuna
+  - Beetseed
+  - Grapesseed
+  - Pumpkinseed
+  - Blueberryseed
+  - Brocoliseed
+  - Cabbage seed
+  - Carrotseed
+  - Cauliflowerseed
+  - Onionseed
+  - Pumpkinseed
+  - Blueberryseed
+  - Broccoliseed
+  - Cabbageseed
+  - Carrotseed
+  - Cauliflowerseed
+  - Onionseed
+  - Parsnipseed
+  - Potatoseed
+  - Springonionseed
+  - Strawberryseed
+  - Wheatseed
+  - Bellpepperseed
+  - Blackberryseed
+  - Cornseed
+  - Cucumberseed
+  - Eggplatseed
+  - Greenbeanseed
+  - Hotpepperseed
+  - Melonseed
+  - Pineappleseed
+  - Sunflowerseed
+  - Tomatoseed
+  - Watermelonseed
+  - Wheatseed

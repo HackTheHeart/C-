@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93fc7b105d941ee4fbf9ed12ca39eb9e, type: 3}
+  m_Name: Tomato Seed
+  m_EditorClassIdentifier: 
+  itemName: Tomatoseed
+  itemID: 0
+  itemSprite: {fileID: 3520924985823343905, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  stackable: 1
+  itemType: 2
+  cropData: {fileID: 11400000, guid: 53773d5a4e2f50041b501fc69877c81a, type: 2}
+  sellPrice: 0
+  description: Grows into a tomato vine. Takes 6 days to mature, then produces tomatoes
+    every 3 days. Requires a trellis.
+  energy: 0
+  health: 0
+  speed: 0

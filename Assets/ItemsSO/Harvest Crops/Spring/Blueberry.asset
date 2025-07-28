@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93fc7b105d941ee4fbf9ed12ca39eb9e, type: 3}
+  m_Name: Blueberry
+  m_EditorClassIdentifier: 
+  itemName: Blueberry
+  itemID: 0
+  itemSprite: {fileID: 4206968556728965966, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  stackable: 1
+  itemType: 12
+  cropData: {fileID: 0}
+  sellPrice: 70
+  description: A small, sweet berry that's bursting with flavor.
+  energy: 18
+  health: 4
+  speed: 0

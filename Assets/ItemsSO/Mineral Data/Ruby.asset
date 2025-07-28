@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a6345b377f2dd4bb0e8dbf84627ec6, type: 3}
+  m_Name: Ruby
+  m_EditorClassIdentifier: 
+  oreName: Ruby
+  orePrefabs:
+  - {fileID: 4330890294884575974, guid: ba00ccf60fbc98544815573a8f94050a, type: 3}
+  - {fileID: 2375593971890825680, guid: 752432f405950804693d6a5673a506a1, type: 3}
+  - {fileID: 1263721949311110602, guid: 05a3affe9efe66949b365a4853c174b1, type: 3}
+  minLevel: 18
+  maxLevel: 25

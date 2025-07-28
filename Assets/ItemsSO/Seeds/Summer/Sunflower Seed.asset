@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93fc7b105d941ee4fbf9ed12ca39eb9e, type: 3}
+  m_Name: Sunflower Seed
+  m_EditorClassIdentifier: 
+  itemName: Sunflowerseed
+  itemID: 0
+  itemSprite: {fileID: 748260739589490304, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  stackable: 1
+  itemType: 2
+  cropData: {fileID: 11400000, guid: 06ce5b5b0f90fa64d9d0c2553edb82b9, type: 2}
+  sellPrice: 0
+  description: Produces a tall sunflower. Takes 8 days to bloom. Can yield both seeds
+    and petals. Useful for crafting and gifting.
+  energy: 0
+  health: 0
+  speed: 0

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62dc082794b8d1a49b7f67e350368759, type: 3}
+  m_Name: Mermaid DialogueSet
+  m_EditorClassIdentifier: 
+  npcName: Tuan
+  npcPortraits:
+  - {fileID: -2073730173555572329, guid: 6feab2cccd456e142954cde070a8a40a, type: 3}
+  normalDialogues:
+  - lines:
+    - I saw you by the shore yesterday.
+    - "You looked happy\u2026 like the waves were listening to you."
+    - That made me smile.
+    autoProgressLines: 000000
+    expressions: 000000000000000000000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  - lines:
+    - Sometimes I hum songs under the sea.
+    - "No one hears them\u2026 but I imagine someone might."
+    - Would you like to hear one someday?
+    autoProgressLines: 000000
+    expressions: 000000000000000000000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  - lines:
+    - The moonlight looks beautiful on the water tonight.
+    - I used to dance with the fish when the stars came out.
+    - Now, I just enjoy the silence... and your company.
+    autoProgressLines: 000000
+    expressions: 000000000000000000000000
+    typingSpeed: 0
+    autoProgressDelay: 0
+  likeDialogues: []
+  dislikeDialogues: []
+  loveDialogues: []

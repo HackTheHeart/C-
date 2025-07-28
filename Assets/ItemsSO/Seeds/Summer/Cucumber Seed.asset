@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93fc7b105d941ee4fbf9ed12ca39eb9e, type: 3}
+  m_Name: Cucumber Seed
+  m_EditorClassIdentifier: 
+  itemName: Cucumberseed
+  itemID: 0
+  itemSprite: {fileID: -3294295329195833944, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  stackable: 1
+  itemType: 2
+  cropData: {fileID: 11400000, guid: 9f7d8a2676829b940acda9ed946a7096, type: 2}
+  sellPrice: 0
+  description: Produces crunchy cucumbers. Takes 8 days to mature, with repeat harvests
+    every 3 days. Needs vertical space.
+  energy: 0
+  health: 0
+  speed: 0

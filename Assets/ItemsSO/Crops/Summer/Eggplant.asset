@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4546780ad7f8c2f4bbeb6aee7a03095e, type: 3}
+  m_Name: Eggplant
+  m_EditorClassIdentifier: 
+  cropName: Eggplant
+  growthStages:
+  - {fileID: -5120948086861636487, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: -7015697924709034981, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: 457880060492233156, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: -6962462085347332892, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: 8190923194131634139, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  - {fileID: 5417012163855505208, guid: e63255222145a9a49bb39bfdd1efbb80, type: 3}
+  daysPerStage: 0100000002000000030000000300000003000000
+  requiresWater: 1
+  harvestItemName: Eggplant
+  harvestAmount: 1
+  growingSeason: 1

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4546780ad7f8c2f4bbeb6aee7a03095e, type: 3}
+  m_Name: Potato
+  m_EditorClassIdentifier: 
+  cropName: Potato
+  growthStages:
+  - {fileID: 2868446355547618523, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: -317592646122885040, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: 4861662748524225573, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: -6289053032045062706, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: 2484816382080541559, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  daysPerStage: 02000000020000000100000001000000
+  requiresWater: 1
+  harvestItemName: Potato
+  harvestAmount: 1
+  growingSeason: 0

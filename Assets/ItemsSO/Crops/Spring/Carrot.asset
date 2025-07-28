@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4546780ad7f8c2f4bbeb6aee7a03095e, type: 3}
+  m_Name: Carrot
+  m_EditorClassIdentifier: 
+  cropName: Carrot
+  growthStages:
+  - {fileID: -8286018175113047878, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: -4121517270082971212, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: -1800126058511640119, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: -1957658871821922118, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  - {fileID: -551511011614809637, guid: 1ee28b516d7414c4d8d35172efc23572, type: 3}
+  daysPerStage: 02000000020000000200000001000000
+  requiresWater: 1
+  harvestItemName: Carrot
+  harvestAmount: 1
+  growingSeason: 0

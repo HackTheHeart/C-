@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93fc7b105d941ee4fbf9ed12ca39eb9e, type: 3}
+  m_Name: Pumpkin Seed
+  m_EditorClassIdentifier: 
+  itemName: Pumpkinseed
+  itemID: 0
+  itemSprite: {fileID: 7543655215680742355, guid: 4ec8ffa07b4a36b449ba2305cb0162c8, type: 3}
+  stackable: 1
+  itemType: 2
+  cropData: {fileID: 11400000, guid: 732a3403af917654bbe0098bdbbb6efe, type: 2}
+  sellPrice: 0
+  description: Grows into a large, festive pumpkin. Takes 13 days to mature. Harvest
+    once. High selling price and a Fall favorite.
+  energy: 0
+  health: 0
+  speed: 0

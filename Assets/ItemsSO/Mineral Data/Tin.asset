@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2a6345b377f2dd4bb0e8dbf84627ec6, type: 3}
+  m_Name: Tin
+  m_EditorClassIdentifier: 
+  oreName: Tin
+  orePrefabs:
+  - {fileID: 4519106194840331124, guid: f50ed5e71adf63c46b899c0da13be0e8, type: 3}
+  - {fileID: 1258193465394249470, guid: dc5c4a85c243a4e409b99621bf46dd09, type: 3}
+  - {fileID: 1263721949311110602, guid: 2c47b327db59af84cbe97b73bc017d6b, type: 3}
+  minLevel: 1
+  maxLevel: 5
