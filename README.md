@@ -22,3 +22,6 @@
 <img width="1489" height="852" alt="Blacksmith" src="https://github.com/user-attachments/assets/8d075506-8ba7-4c5a-b9e5-a98158ebbdb1" />
 <img width="1488" height="841" alt="Inventory" src="https://github.com/user-attachments/assets/977b0edc-f477-4452-a009-908119d4999d" />
 <img width="1495" height="834" alt="image" src="https://github.com/user-attachments/assets/cd06bb5d-3cc2-4d53-a071-318569b82770" />
+<img width="959" height="612" alt="Screenshot 2026-06-06 114513" src="https://github.com/user-attachments/assets/22c1a540-087f-43c1-9a8c-d00adb2c6e4a" />
+<img width="1189" height="671" alt="Screenshot 2026-06-06 114543" src="https://github.com/user-attachments/assets/3f632e66-71d7-4b7b-bc75-33e513ff8e2e" />
+<img width="1180" height="665" alt="Screenshot 2026-06-06 114604" src="https://github.com/user-attachments/assets/031578dc-d1f2-4d6a-bd4c-24d2c74ae98a" />
